@@ -1,5 +1,4 @@
-# <h1 align="center">![Horiseon](./assets/images/horiseon-icon.png)</h1>
-# <h2 align="center">Horiseon Homepage Refactor</h2>
+# <h1 align="center">![Horiseon](./assets/images/horiseon-icon.png)</h1><h2 align="center">Horiseon Homepage Refactor</h2>
 ---
 ## About
 This project refactors Horiseon's homepage, refining and streamlining the code in order to improve accessibility and boost SEO.
