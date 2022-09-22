@@ -1,4 +1,4 @@
-# ![Horiseon](./assets/images/horiseon-icon.png)
+# <h1 align="center">![Horiseon](./assets/images/horiseon-icon.png)<h1>
 #### Horiseon Homepage Refactor
 ---
 ## About
