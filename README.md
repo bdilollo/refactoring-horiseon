@@ -1,4 +1,4 @@
-# <h1 img-align="center">![Horiseon](./assets/images/horiseon-icon.png)</h1><h2 text-align="center">Horiseon Homepage Refactor</h2>
+# <h1 align="center">![Horiseon](./assets/images/horiseon-icon.png)</h1><h2 align="center">Horiseon Homepage Refactor</h2>
 ---
 ## About
 This project refactors Horiseon's homepage, refining and streamlining the code in order to improve accessibility and boost SEO. The original code, although it produced a functional page, lacked the details and organization necessary to optimize both the user experience and the page's own SEO quality. As a result, it limited traffic and immediately precluded some users from effectively accessing the page at all, thereby driving down business for the organization.
