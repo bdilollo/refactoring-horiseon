@@ -11,8 +11,10 @@ To address this, I implemented several measures aimed at boosting the overall ef
 ## Usage
 ![exhibiting page functionality](/assets/images/horiseon-usage.gif)
 In addition to a streamlining of the code, the page exhibits full functionality. Use the links in the header to navigate to the different sections of the page.
+
 ## License
+[MIT](LICENSE.txt)
 
 ## Contact
-[GitHub](https://github.com/bdilollo)
+[GitHub](https://github.com/bdilollo)  
 [LinkedIn](https://www.linkedin.com/in/bradley-dilollo/)
